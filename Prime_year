@@ -1,0 +1,38 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+
+
+int main void
+{
+int year;
+bool prime;
+printf("What year we have now???");
+scanf(%d,&year);
+for (int x=0;x<year/2;x++){
+  if(year%x=0){
+    prime=false;
+              }
+   }
+if(prime) printf("your year is %d and he is prime \n",year);
+if(!prime) printf("your year is not prime :( );
+year++;
+if(!prime){
+int z=0;
+for (x=0;prime;x++){
+    for(int y=0;y<year/2;y++){
+        if(year%y=0){
+            prime=false;
+            z++;
+            }
+      }
+     if(z!=0) prime=true; else year++;
+    } 
+    
+    printf("the next prime year is %d" \n,year);
+    printf("be ready for succcess !!! "); // as scientstics says prime numbers are success numbers !!!!
+ }
+ }
+ 
+     
+            
